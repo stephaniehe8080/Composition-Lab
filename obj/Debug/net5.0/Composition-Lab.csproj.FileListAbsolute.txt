@@ -1,0 +1,16 @@
+C:\Users\steph\source\repos\Composition-Lab\obj\Debug\net5.0\Composition-Lab.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\Composition-Lab\obj\Debug\net5.0\Composition-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\Composition-Lab\obj\Debug\net5.0\Composition-Lab.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\Composition-Lab\obj\Debug\net5.0\Composition-Lab.AssemblyInfo.cs
+C:\Users\steph\source\repos\Composition-Lab\obj\Debug\net5.0\Composition-Lab.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Composition-Lab\bin\Debug\net5.0\Composition-Lab.exe
+C:\Users\steph\source\repos\Composition-Lab\bin\Debug\net5.0\Composition-Lab.deps.json
+C:\Users\steph\source\repos\Composition-Lab\bin\Debug\net5.0\Composition-Lab.runtimeconfig.json
+C:\Users\steph\source\repos\Composition-Lab\bin\Debug\net5.0\Composition-Lab.runtimeconfig.dev.json
+C:\Users\steph\source\repos\Composition-Lab\bin\Debug\net5.0\Composition-Lab.dll
+C:\Users\steph\source\repos\Composition-Lab\bin\Debug\net5.0\ref\Composition-Lab.dll
+C:\Users\steph\source\repos\Composition-Lab\bin\Debug\net5.0\Composition-Lab.pdb
+C:\Users\steph\source\repos\Composition-Lab\obj\Debug\net5.0\Composition-Lab.dll
+C:\Users\steph\source\repos\Composition-Lab\obj\Debug\net5.0\ref\Composition-Lab.dll
+C:\Users\steph\source\repos\Composition-Lab\obj\Debug\net5.0\Composition-Lab.pdb
+C:\Users\steph\source\repos\Composition-Lab\obj\Debug\net5.0\Composition-Lab.genruntimeconfig.cache
